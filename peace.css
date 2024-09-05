@@ -1,0 +1,60 @@
+*{
+  padding: 0px;
+  margin:0px;
+ font-family: Arial, Helvetica, sans-serif;}
+.ene h2{
+  padding: 5px 20px;
+ color: #161616;
+ background:#0078ff;
+ border-radius: 10px;
+ margin: 5px;
+ position: sticky;
+ top: 0;
+}
+.love{
+  padding: 20px 20px 0px 20px;
+  text-align: center;
+}
+.love h1{
+  font-size: 4rem;
+}
+.spn{
+ background: linear-gradient(to right,#2daebe,#0078ff);
+ background-clip: text;
+ -webkit-background-clip: text ;
+ color: transparent ;
+}
+.love2{
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center ;
+  justify-items: center;
+}
+.love3 p{
+  text-align: center;
+  padding: 0px 20px;
+  font-size: 1.5rem;
+  margin-top: 50px;
+  color:grey;
+}
+.btn button{
+  background: linear-gradient(to right,#2daebe,#0078ff);
+  border-radius: 20px;
+  color: white;
+  padding: 30px;
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 30px;
+  
+}
+.btn{
+  text-align: center ;
+}
+body{
+  background:#fff5ee;
+}
+.living p{
+  margin: 10px;
+  margin-top: 20px;
+}
